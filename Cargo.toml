@@ -11,7 +11,7 @@ exclude = ["/results"]
 
 [dependencies]
 core_affinity = "0.5"
-quanta = "0.10"
+quanta = "0.12"
 clap = { version = "3", features = ["derive"] }
 ndarray = "0.15"
 ansi_term = "0.12"
