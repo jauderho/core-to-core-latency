@@ -18,4 +18,4 @@ ansi_term = "0.12"
 ordered-float = "3"
 cache-padded = "1.3"
 crossbeam-utils = { version = "0.8", default-features = false }
-raw-cpuid = "10"
+raw-cpuid = "11"
